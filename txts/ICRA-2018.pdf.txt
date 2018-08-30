@@ -1,0 +1,912 @@
+Index of papers published in the
+IEEE Robotics and Automation Letters
+and presented at
+IEEE Int. Conf. on Robotics and Automation 2017
+(ICRA’17)
+In order of publication
+Design of a Passive Vertical Takeoff and Landing Aquatic UAV
+Peloquin, Richard-Alexandre; Thibault, Dominik; Lussier Desbiens,
+Alexis
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 381-388, DOI: 10.1109/LRA.2016.2633623
+Trajectory Generation for Unmanned Aerial Manipulators
+through Quadratic Programming
+Rossi, Roberto; Santamaria-Navarro, Angel; Andrade-Cetto, Juan;
+Rocco, Paolo
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 389-396, DOI: 10.1109/LRA.2016.2633625
+Repeatable Folding Task by Humanoid Robot Worker Using
+Deep Learning
+YANG, PIN-CHU; Sasaki, Kazuma; Suzuki, Kanata; Kase, Kei; Sugano, Shigeki; Ogata, Tetsuya
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 397-403, DOI: 10.1109/LRA.2016.2633383
+Estimation, Control, and Planning for Aggressive Flight With a
+Small Quadrotor With a Single Camera and IMU
+Loianno, Giuseppe; Brunner, Chris; McGrath, Gary; Kumar, Vijay
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 404-411, DOI: 10.1109/LRA.2016.2633290
+
+1
+
+Determining the Singularities for the Observation of Three Image
+Lines
+Briot, Sébastien; Martinet, Philippe; Chaumette, Francois
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 412-419, DOI: 10.1109/LRA.2016.2633975
+Self-Supervised Visual Descriptor Learning for Dense Correspondence
+Schmidt, Tanner; Newcombe, Richard; Fox, Dieter
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 420-427, DOI: 10.1109/LRA.2016.2634089
+Legged Elastic Multibody Systems: Adjusting Limit Cycles to
+Close-To-Optimal Energy Efficiency
+Stratmann, Philipp; Lakatos, Dominic; Özparpucu, Mehmet Can;
+Albu-Schäffer, Alin
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 436-443, DOI: 10.1109/LRA.2016.2633580
+Direct Visual Odometry in Low Light Using Binary Descriptors
+Alismail, Hatem; Kaess, Michael; Browning, Brett; Lucey, Simon
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 444-451, DOI: 10.1109/LRA.2016.2635686
+Motion Discontinuity-Robust Controller for Steerable Mobile
+Robots
+Sorour, Mohamed; Cherubini, Andrea; Fraisse, Philippe; Passama,
+Robin
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 452-459, DOI: 10.1109/LRA.2016.2638466
+Incipient Slip Detection and Recovery for Controllable GeckoInspired Adhesion
+Wu, Xin Alice; Christensen, David; Suresh, Srinivasan; Jiang, Hao;
+Roderick, William Robert Thomas; Cutkosky, Mark
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 460-467, DOI: 10.1109/LRA.2016.2636881
+
+2
+
+Learning Depth-Aware Deep Representations for Robotic Perception
+Porzi, Lorenzo; Rota Bulò, Samuel; Peñate-Sánchez, Adrián; Ricci,
+Elisa; Moreno-Noguer, Francesc
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 468-475, DOI: 10.1109/LRA.2016.2637444
+Thrust Mixing, Saturation, and Body-Rate Control for Accurate
+Aggressive Quadrotor Flight
+Faessler, Matthias; Falanga, Davide; Scaramuzza, Davide
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 476-482, DOI: 10.1109/LRA.2016.2640362
+Design and Analysis of a Soft-Fingered Hand with Contact Feedback
+Ho, Van; Hirai, Shinichi
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 491-498, DOI: 10.1109/LRA.2016.2645120
+Automated Robotic Measurement of 3-D Cell Morphologies
+Liu, Jun; Zhang, Zhuoran; Wang, Xian; Liu, Haijiao; Zhao, Qili; Zhou,
+Chao; Tan, Min; Pu, Huayan; Xie, Shaorong; Sun, Yu
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 499-505, DOI: 10.1109/LRA.2016.2645145
+Computationally Efficient Belief Space Planning via Augmented
+Matrix Determinant Lemma and Reuse of Calculations
+Kopitkov, Dmitry; Indelman, Vadim
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 506-513, DOI: 10.1109/LRA.2016.2645894
+Dexterity Analysis of Three 6-DOF Continuum Robots Combining Concentric Tube Mechanisms and Cable-Driven Mechanisms
+Wu, Liao; Crawford, Ross; Roberts, Jonathan
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 514-521, DOI: 10.1109/LRA.2016.2645519
+
+3
+
+Passive Hierarchical Impedance Control via Energy Tanks
+Dietrich, Alexander; Wu, Xuwei; Bussmann, Kristin; Ott, Christian;
+Albu-Schäffer, Alin; Stramigioli, Stefano
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 522-529, DOI: 10.1109/LRA.2016.2645504
+Intercepting Rogue Robots: An Algorithm for Capturing Multiple
+Evaders with Multiple Pursuers
+Pierson, Alyssa; Wang, Zijian; Schwager, Mac
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 530-537, DOI: 10.1109/LRA.2016.2645516
+Automatic Virtual Metrology and Target Value Adjustment for
+Mass Customization
+Tieng, Hao; Chen, Chun-Fang; Cheng, Fan-Tien; Yang, Haw-Ching
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 546-553, DOI: 10.1109/LRA.2016.2645507
+Robotic Pick-And-Place of Multiple Embryos for Vitrification
+Zhang, Zhuoran; Liu, Jun; Wang, Xian; Zhao, Qili; Zhou, Chao; Tan,
+Min; Pu, Huayan; Xie, Shaorong; Sun, Yu
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 570-576, DOI: 10.1109/LRA.2016.2640364
+Probabilistic Articulated Real-Time Tracking for Robot Manipulation
+Garcia Cifuentes, Cristina; Issac, Jan; Wüthrich, Manuel; Schaal,
+Stefan; Bohg, Jeannette
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 577-584, DOI: 10.1109/LRA.2016.2645124
+DROW: Real-Time Deep Learning-Based Wheelchair Detection in
+2-D Range Data
+Beyer, Lucas; Hermans, Alexander; Leibe, Bastian
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 585-592, DOI: 10.1109/LRA.2016.2645131
+
+4
+
+EVO: A Geometric Approach to Event-Based 6-DOF Parallel
+Tracking and Mapping in Real Time
+Rebecq, Henri; Horstschäfer, Timo; Gallego, Guillermo; Scaramuzza,
+Davide
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 593-600, DOI: 10.1109/LRA.2016.2645143
+Image-Based Visual Servoing with Unknown Point Feature Correspondence
+McFadyen, Aaron; Jabeur, Marwen; Corke, Peter
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 601-607, DOI: 10.1109/LRA.2016.2645886
+Visual Servoing in an Optimization Framework for the WholeBody Control of Humanoid Robots
+Agravante, Don Joven; Claudio, Giovanni; Spindler, Fabien;
+Chaumette, Francois
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 608-615, DOI: 10.1109/LRA.2016.2645512
+Soft Gripper Dynamics Using a Line-Segment Model With an
+Optimization-Based Parameter Identification Method
+Wang, Zhongkui; Hirai, Shinichi
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 624-631, DOI: 10.1109/LRA.2017.2650149
+Accurate Angular Velocity Estimation with an Event Camera
+Gallego, Guillermo; Scaramuzza, Davide
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 632-639, DOI: 10.1109/LRA.2016.2647639
+Verification and Synthesis of Admissible Heuristics for Kinodynamic Motion Planning
+Paden, Brian; Varricchio, Valerio; Frazzoli, Emilio
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 648-655, DOI: 10.1109/LRA.2017.2651157
+
+5
+
+Active Autonomous Aerial Exploration for Ground Robot Path
+Planning
+Delmerico, Jeffrey; Mueggler, Elias; Nitsch, Julia; Scaramuzza, Davide
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 664-671, DOI: 10.1109/LRA.2017.2651163
+Compensation of Load Dynamics for Admittance Controlled Interactive Industrial Robots Using a Quaternion-Based Kalman
+Filter
+Farsoni, Saverio; Talignani Landi, Chiara; Ferraguti, Federica; Secchi, Cristian; Bonfe, Marcello
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 672-679, DOI: 10.1109/LRA.2017.2651393
+Warped Gaussian Processes Occupancy Mapping with Uncertain Inputs
+Ghaffari Jadidi, Maani; Valls Miro, Jaime; Dissanayake, Gamini
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 680-687, DOI: 10.1109/LRA.2017.2651154
+Phase Correlation for Dense Visual Compass from Omnidirectional Camera-Robot Images
+Morbidi, Fabio; Caron, Guillaume
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 688-695, DOI: 10.1109/LRA.2017.2650150
+Fast Marching Adaptive Sampling
+Lawrance, Nicholas Robert Jonathon; Chung, Jen Jen; Hollinger, Geoffrey
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 696-703, DOI: 10.1109/LRA.2017.2651148
+
+6
+
+A Framework for Optimal Grasp Contact Planning
+Hang, Kaiyu; Stork, Johannes Andreas; Pollard, Nancy S; Kragic,
+Danica
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 704-711, DOI: 10.1109/LRA.2017.2651381
+Dynamical System Based Robotic Motion Generation with Obstacle Avoidance
+Stavridis, Sotiris; Papageorgiou, Dimitrios; Doulgeri, Zoe
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 712-718, DOI: 10.1109/LRA.2017.2651172
+A Method for Derivation of Robot Task-Frame Control Authority
+from Repeated Sensory Observations
+Peternel, Luka; Rozo, Leonel; Caldwell, Darwin G.; Ajoudani, Arash
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 719-726, DOI: 10.1109/LRA.2017.2651368
+Optimization of tail geometry for the propulsion of soft microrobots
+Huang, Hen-Wei; Chao, Qianwen; Sakar, Mahmut Selman; Nelson,
+Bradley J.
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 727-732, DOI: 10.1109/LRA.2017.2651167
+Convergence and Consistency Analysis for a 3-D Invariant-EKF
+SLAM
+Zhang, Teng; WU, KANZHI; Song, Jingwei; Huang, Shoudong; Dissanayake, Gamini
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 733-740, DOI: 10.1109/LRA.2017.2651376
+Leveraging Natural Load Dynamics with Variable Gear-Ratio Actuators
+Girard, Alexandre; Asada, Harry
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 741-748, DOI: 10.1109/LRA.2017.2651946
+
+7
+
+Automatic Room Segmentation From Unstructured 3-D Data of
+Indoor Environments
+Ambrus, Rares; Claici, Sebastian; Wendt, Axel Joerg
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 749-756, DOI: 10.1109/LRA.2017.2651939
+Modeling Grasp Motor Imagery through Deep Conditional Generative Models
+Veres, Matthew; Moussa, Medhat; Taylor, Graham
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 757-764, DOI: 10.1109/LRA.2017.2651945
+Peduncle Detection of Sweet Pepper for Autonomous Crop Harvestingâ Combined Color and 3-D Information
+Sa, Inkyu; Lehnert, Christopher; English, Andrew; McCool, Christopher Steven; Dayoub, Feras; Upcroft, Ben; Perez, Tristan
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 765-772, DOI: 10.1109/LRA.2017.2651952
+Modeling and Inverse Compensation of Hysteresis in Supercoiled Polymer Artificial Muscles
+Zhang, Jun; Iyer, Kaushik; Simeonov, Anthony; Yip, Michael C.
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 773-780, DOI: 10.1109/LRA.2017.2651401
+Counting Apples and Oranges With Deep Learning: A DataDriven Approach
+Chen, Steven W; Skandan, Shreyas; Dcunha, Sandeep; Das,
+Jnaneshwar; Qu, Chao; Taylor, Camillo Jose; Kumar, Vijay
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 781-788, DOI: 10.1109/LRA.2017.2651944
+Visual-Inertial Monocular SLAM with Map Reuse
+Mur-Artal, Raul; Tardos, Juan D.
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 796-803, DOI: 10.1109/LRA.2017.2653359
+
+8
+
+SLIP-Model-Based Dynamic Gait Generation in a Leg-Wheel
+Transformable Robot with Force Control
+Lin, Yun-Meng; Lin, Hung-Sheng; Lin, Pei-Chun
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 804-810, DOI: 10.1109/LRA.2017.2653363
+A Human Action Descriptor Based on Motion Coordination
+Falco, Pietro; Saveriano, Matteo; Hasany, Eka Gibran; Kirk, Nicholas
+Hubert; Lee, Dongheui
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 811-818, DOI: 10.1109/LRA.2017.2652494
+Ergodic Exploration Using Binary Sensing for Nonparametric
+Shape Estimation
+Abraham, Ian; Prabhakar, Ahalya; Hartmann, Mitra; Murphey, Todd
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 827-834, DOI: 10.1109/LRA.2017.2654542
+Reliable Grasping of Three-Dimensional Untethered Mobile Magnetic Microgripper for Autonomous Pick-and-Place
+Zhang, Jiachen; Onaizah, Onaizah; Middleton, Kevin Andrew James;
+You, LiDan; Diller, Eric D.
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 835-840, DOI: 10.1109/LRA.2017.2657879
+Formations for Resilient Robot Teams
+Guerrero-Bonilla, Luis; Prorok, Amanda; Kumar, Vijay
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 841-848, DOI: 10.1109/LRA.2017.2654550
+JammJoint: A Variable Stiffness Device Based on Granular Jamming for Wearable Joint Support
+Hauser, Simon; Robertson, Matthew; Ijspeert, Auke; Paik, Jamie
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 849-855, DOI: 10.1109/LRA.2017.2655109
+
+9
+
+Adaptive Task Scheduling for an Assembly Task Coworker
+Robot Based on Incremental Learning of Human’s Motion Patterns
+Kinugawa, Jun; Kanazawa, Akira; Arai, Shogo; Kosuge, Kazuhiro
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 856-863, DOI: 10.1109/LRA.2017.2655565
+Autonomous Sweet Pepper Harvesting for Protected Cropping
+Systems
+Lehnert, Christopher; English, Andrew; McCool, Christopher Steven;
+Tow, Adam Michael Willem; Perez, Tristan
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 872-879, DOI: 10.1109/LRA.2017.2655622
+Hybrid Tele-Manipulation System Using a Sensorized 3-DPrinted Soft Robotic Gripper and a Soft Fabric-Based Haptic
+Glove
+Low, Jin Huat; Khin, Phone May; Lee, Wang Wei; Thakor, Nitish;
+Kukreja, Sunil, L.; Ren, Hongliang; Yeow, Chen-Hua
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 880-887, DOI: 10.1109/LRA.2017.2655559
+Essential Properties of Numerical Integration for Time-Optimal
+Path-Constrained Trajectory Planning
+Shen, Peiyao; Zhang, Xuebo; Fang, Yongchun
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 888-895, DOI: 10.1109/LRA.2017.2655580
+Design and Optimal Control of an Underactuated Cable-Driven
+Microâ Macro Robot
+BARBAZZA, LUCA; Zanotto, Damiano; Rosati, Giulio; Agrawal, Sunil
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 896-903, DOI: 10.1109/LRA.2017.2651941
+
+10
+
+Decentralized Navigation for Heterogeneous Swarm Robots with
+Limited Field of View
+Maeda, Ryuma; Endo, Takahiro; Matsuno, Fumitoshi
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 904-911, DOI: 10.1109/LRA.2017.2654549
+Comparative Study of Serial-Parallel Delta Robots with Full Orientation Capabilities
+Brinker, Jan; Funk, Nils; Ingenlath, Philipp; Takeda, Yukio; Corves,
+Burkhard
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 920-926, DOI: 10.1109/LRA.2017.2654551
+Rubbing Against Blood Clots Using Helical Robots: Modeling
+and In Vitro Experimental Validation
+Khalil, Islam S.M.; Tabak, Ahmet Fatih; Sadek, Khaled; Mahdy, Dalia;
+Hamdi, Nabila; Sitti, Metin
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 927-934, DOI: 10.1109/LRA.2017.2654546
+A Hybrid Method for Online Trajectory Planning of Mobile
+Robots in Cluttered Environments
+Campos Macı́as, Leobardo Emmanuel; Gómez-Gutiérrez, David;
+Aldana-López, Rodrigo; De La Guardia, Rafael; Parra-Vilchis, Jose I.
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 935-942, DOI: 10.1109/LRA.2017.2655145
+Development of Giacometti Arm with Balloon Body
+Takeichi, Masashi; Suzumori, Koichi; Endo, Gen; Nabae, Hiroyuki
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 951-957, DOI: 10.1109/LRA.2017.2655111
+Multi-Layered Channel Patterning by Local Heating of Hydrogels
+Takeuchi, Masaru; Oya, Tomoyuki; Ichikawa, Akihiko; Hasegawa,
+Akiyuki; Nakajima, Masahiro; Hasegawa, Yasuhisa; Fukuda, Toshio
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 958-963, DOI: 10.1109/LRA.2017.2655625
+
+11
+
+Adapting to Flexibility: Model Reference Adaptive Control of
+Soft Bending Actuators
+Skorina, Erik; Luo, Ming; Tao, Weijia; Chen, Fuchen; Fu, Jie; Onal,
+Cagdas
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 964-970, DOI: 10.1109/LRA.2017.2655572
+Bioinspired Ciliary Force Sensor for Robotic Platforms
+Ribeiro, Pedro; Khan, Mohammed Asadullah; Alfadhel, Ahmed;
+Kosel, Jurgen; Franco, Fernando; Cardoso, Susana; Bernardino,
+Alexandre; Schmitz, Alexander; Santos-Victor, José; Jamone,
+Lorenzo
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 971-976, DOI: 10.1109/LRA.2017.2656249
+COCoMoPL: A Novel Approach for Humanoid Walking Generation Combining Optimal Control, Movement Primitives and
+Learning and its Transfer to the Real Robot HRP-2
+Clever, Debora; Harant, Monika; Mombaur, Katja; Naveau, Maximilien; Stasse, Olivier; Endres, Dominik
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 977-984, DOI: 10.1109/LRA.2017.2657000
+Force Measurement Toward the Instability Theory of Soft Pneumatic Actuators
+Sun, Yi; Liang, Xinquan; Yap, Hong Kai; Cao, Jiawei; Ang Jr, Marcelo
+H; Yeow, Chen-Hua
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 985-992, DOI: 10.1109/LRA.2017.2656943
+A Sample-Efficient Black-Box Optimizer to Train Policies for
+Human-In-The-Loop Systems with User Preferences
+Thatte, Nitish; Duan, Helei; Geyer, Hartmut
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 993-1000, DOI: 10.1109/LRA.2017.2656948
+
+12
+
+Printed Paper Robot Driven by Electrostatic Actuator
+Shigemune, Hiroki; Maeda, Shingo; Cacucciolo, Vito; Iwata, Yoshitaka; Iwase, Eiji; Hashimoto, Shuji; Sugano, Shigeki
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1001-1007, DOI: 10.1109/LRA.2017.2658942
+Computing Minimum-Power Dipole Solutions for Interdipole
+Forces Using Nonlinear Constrained Optimization with Application to Electromagnetic Formation Flight
+Abbott, Jake; Brink, Joseph; Osting, Braxton
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1008-1014, DOI: 10.1109/LRA.2017.2658727
+Probabilistic Contact Estimation and Impact Detection for State
+Estimation of Quadruped Robots
+Camurri, Marco; Fallon, Maurice; BAZEILLE, Stephane; Radulescu,
+Andreea; Barasuol, Victor; Caldwell, Darwin G.; Semini, Claudio
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1023-1030, DOI: 10.1109/LRA.2017.2652491
+3-D Map Merging on Pose Graphs
+Bonanni, Taigo Maria; Della Corte, Bartolomeo; Grisetti, Giorgio
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1031-1038, DOI: 10.1109/LRA.2017.2655139
+Resilient Flocking for Mobile Robot Teams
+Saulnier, Kelsey; Saldana, David Julian; Prorok, Amanda; Pappas,
+George J.; Kumar, Vijay
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1039-1046, DOI: 10.1109/LRA.2017.2655142
+Fast, On-line Collision Avoidance for Dynamic Vehicles using
+Buffered Voronoi Cells
+Zhou, Dingjiang; Wang, Zijian; Schwager, Mac; Bandyopadhyay,
+Saptarshi
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1047-1054, DOI: 10.1109/LRA.2017.2656241
+
+13
+
+VAM: Hypocycloid Mechanism for Efficient Bioinspired Robotic
+Gaits
+Knoop, Espen; Conn, Andrew; Rossiter, Jonathan
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1055-1061, DOI: 10.1109/LRA.2017.2657004
+Eigenmodes of Nonlinear Dynamics: Definition, Existence, and
+Embodiment into Legged Robots with Elastic Elements
+Lakatos, Dominic; Friedl, Werner; Albu-Schäffer, Alin
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1062-1069, DOI: 10.1109/LRA.2017.2658018
+Experimental Evaluation of Deadbeat Running on the ATRIAS
+Biped
+Martin, William; Wu, Albert; Geyer, Hartmut
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1085-1092, DOI: 10.1109/LRA.2017.2658020
+Enabling Flow Awareness for Mobile Robots in Partially Observable Environments
+Kucner, Tomasz Piotr; Magnusson, Martin; Schaffernicht, Erik; Hernandez Bennetts, Victor Manuel; Lilienthal, Achim J.
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1093-1100, DOI: 10.1109/LRA.2017.2660060
+A Comparison of Autoregressive Hidden Markov Models for Multimodal Manipulations With Variable Masses
+Kroemer, Oliver; Peters, Jan
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1101-1108, DOI: 10.1109/LRA.2017.2660541
+Lane-Change Detection Based on Vehicle-Trajectory Prediction
+Woo, Hanwool; JI, Yonghoon; Kono, Hitoshi; Tamura, Yusuke;
+Kuroda, Yasuhide; Sugano, Takashi; Yamamoto, Yasunori; Yamashita, Atsushi; Asama, Hajime
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1109-1116, DOI: 10.1109/LRA.2017.2660543
+
+14
+
+Probabilistic Air Flow Modelling Using Turbulent and Laminar
+Characteristics for Ground and Aerial Robots
+Hernandez Bennetts, Victor Manuel; Kucner, Tomasz Piotr; Schaffernicht, Erik; Neumann, Patrick Paul; Fan, Han; Lilienthal, Achim J.
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1117-1123, DOI: 10.1109/LRA.2017.2661803
+The Energetic Benefit of Robotic Gait Selectionâ A Case Study
+on the Robot RAM¡italic¿one¡/italic¿
+Smit-Anseeuw, Nils; Gleason, Rodney; Vasudevan, Ram; Remy, C.
+David
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1124-1131, DOI: 10.1109/LRA.2017.2661801
+Singularity-Tolerant Inverse Kinematics for Bipedal Robots: An
+Efficient Use of Computational Power to Reduce Energy Consumption
+Faraji, Salman; Ijspeert, Auke
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1132-1139, DOI: 10.1109/LRA.2017.2661810
+Serially Actuated Locomotion for Soft Robots in Tube-Like Environments
+Gilbertson, Mark; McDonald, Gillian; Korinek, Gabriel; Van de Ven,
+James; Kowalewski, Timothy
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1140-1147, DOI: 10.1109/LRA.2017.2662060
+An Exact Solver for Geometric Constraints with Inequalities
+Somani, Nikhil; Rickert, Markus; Knoll, Alois
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1148-1155, DOI: 10.1109/LRA.2017.2655113
+Exploratory tactile servoing with active touch
+Lepora, Nathan; Aquilina, Kirsty; Cramphorn, Luke
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1156-1163, DOI: 10.1109/LRA.2017.2662071
+
+15
+
+Variable-Grasping-Mode Underactuated Soft Gripper With Environmental Contact-Based Operation
+Nishimura, Toshihiro; Mizushima, Kaori; Suzuki, Yosuke; Tsuji,
+Tokuo; Watanabe, Tetsuyou
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1164-1171, DOI: 10.1109/LRA.2017.2662086
+Predicting Task Intent from Surface Electromyography Using
+Layered Hidden Markov Models
+Razin, Yosef; Pluckter, Kevin; Ueda, Jun; Feigh, Karen
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1180-1185, DOI: 10.1109/LRA.2017.2662741
+On the Sensor Design of Torque Controlled Actuators: A Comparison Study of Strain Gauge and Encoder-Based Principles
+Kashiri, Navvab; Malzahn, Jörn; Tsagarakis, Nikos
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1186-1194, DOI: 10.1109/LRA.2017.2662744
+Spine Controller for a Sprawling Posture Robot
+Horvat, Tomislav; Melo, Kamilo; Ijspeert, Auke
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1195-1202, DOI: 10.1109/LRA.2017.2664898
+Dubins Orienteering Problem
+Pěnička, Robert; Faigl, Jan; Váňa, Petr; Saska, Martin
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1210-1217, DOI: 10.1109/LRA.2017.2666261
+Exploiting Sensor Symmetry for Generalized Tactile Perception
+in Biomimetic Touch
+Ward-Cherrier, Benjamin; Cramphorn, Luke; Lepora, Nathan
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 2
+Pages: 1218-1225, DOI: 10.1109/LRA.2017.2665692
+
+16
+
+Numerical Approach to Reachability-Guided Sampling-Based
+Motion Planning Under Differential Constraints
+Pendleton, Scott Drew; Liu, Wei; Andersen, Hans; Eng, You Hong;
+Frazzoli, Emilio; Rus, Daniela; Ang Jr, Marcelo H
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1232-1239, DOI: 10.1109/LRA.2017.2651940
+An Approach for Imitation Learning on Riemannian Manifolds
+Zeestraten, Martijn J.A.; Havoutis, Ioannis; Silvério, João; Calinon,
+Sylvain; Caldwell, Darwin G.
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1240-1247, DOI: 10.1109/LRA.2017.2657001
+Insect-Inspired Mechanical Resilience for Multicopters
+Mintchev, Stefano; de Rivaz, Sébastien; Floreano, Dario
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1248-1255, DOI: 10.1109/LRA.2017.2658946
+Model-Based Global Localization for Aerial Robots Using Edge
+Alignment
+Qiu, Kejie; Liu, Tianbo; Shen, Shaojie
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1256-1263, DOI: 10.1109/LRA.2017.2660063
+Implicit Robot Force Control Based on Set Invariance
+Parigi-Polverini, Matteo; Nicolis, Davide; Zanchettin, Andrea Maria;
+Rocco, Paolo
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1288-1295, DOI: 10.1109/LRA.2017.2665681
+Parallel Dynamics Computation Using Prefix Sum Operations
+Yang, Yajue; Wu, Yuanqing; Pan, Jia
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1296-1303, DOI: 10.1109/LRA.2017.2666544
+
+17
+
+Efficient Aerialâ Aquatic Locomotion With a Single Propulsion
+System
+Tan, Yu Herng; Siddall, Robert; Kovac, Mirko
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1304-1311, DOI: 10.1109/LRA.2017.2665689
+Distributed Voronoi Neighbor Identification from Inter-Robot
+Distances
+Elwin, Matthew; Freeman, Randy; Lynch, Kevin
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1320-1327, DOI: 10.1109/LRA.2017.2665696
+Mixtures of Lightweight Deep Convolutional Neural Networks:
+Applied to Agricultural Robotics
+McCool, Christopher Steven; Perez, Tristan; Upcroft, Ben
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1344-1351, DOI: 10.1109/LRA.2017.2667039
+Autonomous Retroflexion of a Magnetic Flexible Endoscope
+Slawinski, Piotr; Taddese, Addisu; Musto, Kyle; Obstein, Keith; Valdastri, Pietro
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1352-1359, DOI: 10.1109/LRA.2017.2668459
+Highly Articulated Robotic Needle Achieves Distributed Ablation
+of Liver Tissue
+Gerboni, Giada; Greer, Joseph; Laeseke, Paul F.; Hwang, Gloria L.;
+Okamura, Allison M.
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1367-1374, DOI: 10.1109/LRA.2017.2668467
+Learning by Demonstration for Planning Activities of Daily Living in Rehabilitation and Assistive Robotics
+Lauretti, Clemente; Cordella, Francesca; Guglielmelli, Eugenio; Zollo,
+Loredana
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1375-1382, DOI: 10.1109/LRA.2017.2669369
+
+18
+
+Automated Particle Collection for Protein Crystal Harvesting
+Zeydan, Burak; Petruska, Andrew J.; Somm, Luca; Pieters, Roel S.;
+Fang, Yang; Sargent, David Fisher; Nelson, Bradley J.
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1391-1396, DOI: 10.1109/LRA.2017.2669364
+Unsupervised Linking of Visual Features to Textual Descriptions
+in Long Manipulation Activities
+Aksoy, Eren Erdal; Ovchinnikova, Ekaterina; Orhan, Adil; Yang,
+Yezhou; Asfour, Tamim
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1397-1404, DOI: 10.1109/LRA.2017.2669363
+An Analytical Lidar Sensor Model Based on Ray Path Information
+Schaefer, Alexander; Luft, Lukas; Burgard, Wolfram
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1405-1412, DOI: 10.1109/LRA.2017.2669376
+Optimization-Based Inverse Model of Soft Robots with Contact
+Handling
+Coevoet, Eulalie; Escande, Adrien; Duriez, Christian
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1413-1419, DOI: 10.1109/LRA.2017.2669367
+Design and Analysis of 6-DOF Triple Scissor Extender Robots
+with Applications in Aircraft Assembly
+Gonzalez, Daniel; Asada, Harry
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1420-1427, DOI: 10.1109/LRA.2017.2671366
+Kinematic Design of a Dynamic Brace for Measurement of
+Head/Neck Motion
+Zhang, Haohan; Agrawal, Sunil
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1428-1435, DOI: 10.1109/LRA.2017.2671409
+
+19
+
+Dance Teaching by a Robot: Combining Cognitive and Physical
+Humanâ Robot Interaction for Supporting the Skill Learning Process
+Paez Granados, Diego Felipe; Yamamoto, Breno Akihiro; Kinugawa,
+Jun; Kosuge, Kazuhiro
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1452-1459, DOI: 10.1109/LRA.2017.2671428
+A New Framework for Optimal Path Planning of Rectangular
+Robots Using a Weighted Lp Norm
+Hyun, Nak-seung Patrick; Vela, Patricio; Verriest, Erik
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1460-1465, DOI: 10.1109/LRA.2017.2673858
+A Curved-Drilling Approach in Core Decompression of the
+Femoral Head Osteonecrosis Using a Continuum Manipulator
+Alambeigi, Farshid; Wang, Yu; Sefati, Shahriar; Gao, Cong; Murphy,
+Ryan Joseph; Iordachita, Ioan Iulian; Taylor, Russell H.; Khanuja,
+Harpal; Armand, Mehran
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1480-1487, DOI: 10.1109/LRA.2017.2668469
+Through the Eustachian Tube and Beyond: A New Miniature
+Robotic Endoscope to See into the Middle Ear
+Fichera, Loris; Dillon, Neal P; Zhang, Dongqing; Godage, Isuru S.;
+Siebold, Michael A; Hartley, Bryan; Noble, Jack; Russell, Paul T.;
+LABADIE, ROBERT F; Webster III, Robert James
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1488-1494, DOI: 10.1109/LRA.2017.2668468
+Variable Damping Force Tunnel for Gait Training Using ALEX III
+Stegall, Paul; Zanotto, Damiano; Agrawal, Sunil
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1495-1501, DOI: 10.1109/LRA.2017.2671374
+
+20
+
+Trajectory Optimization through Contacts and Automatic Gait
+Discovery for Quadrupeds
+Neunert, Michael; Farshidian, Farbod; Winkler, Alexander, Wayne;
+Buchli, Jonas
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1502-1509, DOI: 10.1109/LRA.2017.2665685
+A Single-Port Robotic System for Transanal Microsurgeryâ Design and Validation
+Shang, Jianzhong; Leibrandt, Konrad; Giataganas, Petros; Vitiello,
+Valentina; Seneci, Carlo Alberto; Wisanuvej, Piyamate; Liu, Jindong;
+Gras, Gauthier; Clark, James; Darzi, Ara; Yang, Guang-Zhong
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1510-1517, DOI: 10.1109/LRA.2017.2668461
+A Contact-Aided Asymmetric Steerable Catheter for Atrial Fibrillation Ablation
+Gao, Anzhu; liu, Hao; Zou, Yun; Wang, Zhidong; Liang, Ming; Wang,
+Zulu
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1525-1531, DOI: 10.1109/LRA.2017.2676351
+Word Ordering and Document Adjacency for Large Loop Closure
+Detection in 2-D Laser Maps
+deray, jeremie; Solà, Joan; Andrade-Cetto, Juan
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1532-1539, DOI: 10.1109/LRA.2017.2657796
+An Adaptable, Probabilistic, Next-Best View Algorithm for Reconstruction of Unknown 3-D Objects
+Jonathan Daudelin, Jonathan; Campbell, Mark
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1540-1547, DOI: 10.1109/LRA.2017.2660769
+
+21
+
+Efficient Proximity Queries for Continuum Robots on Parallel
+Computing Hardware
+Leibrandt, Konrad; Yang, Guang-Zhong
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1548-1555, DOI: 10.1109/LRA.2017.2668466
+Uncertainty in Monotone Codesign Problems
+Censi, Andrea
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1556-1563, DOI: 10.1109/LRA.2017.2674970
+Designing Anthropomorphic Robot Hand with Active Dual-Mode
+Twisted String Actuation Mechanism and Tiny Tension Sensors
+Jeong, Seok-Hwan; Kim, Kyung-Soo; Kim, Soohyun
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1571-1578, DOI: 10.1109/LRA.2017.2647800
+Design of a Compact Actuation and Control System for Flexible
+Medical Robots
+Morimoto, Tania K.; Hawkes, Elliot Wright; Okamura, Allison M.
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1579-1585, DOI: 10.1109/LRA.2017.2676240
+Utilizing Elasticity of Cable-Driven Surgical Robot to Estimate
+Cable Tension and External Force
+Haghighipanah, Mohammad; Miyasaka, Muneaki; Hannaford, Blake
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1593-1600, DOI: 10.1109/LRA.2017.2676347
+Computationally Efficient Rigid-Body Gaussian Process for Motion Dynamics
+Lang, Muriel; Hirche, Sandra
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1601-1608, DOI: 10.1109/LRA.2017.2677469
+
+22
+
+Enhancing Seated Stability Using Trunk Support Trainer (TruST)
+Khan, Moiz; Santamaria, Victor; Kang, Jiyeon; Bradley, Brian;
+Dutkowsky, Joseph; Gordon, Andrew M.; Agrawal, Sunil
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1609-1616, DOI: 10.1109/LRA.2017.2678600
+Continuum Reconfigurable Parallel Robots for Surgery: Shape
+Sensing and State Estimation with Uncertainty
+Anderson, Patrick; Mahoney, Art; Webster III, Robert James
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1617-1624, DOI: 10.1109/LRA.2017.2678606
+Development and Experimental Evaluation of Concurrent Control of a Robotic Arm and Continuum Manipulator for Osteolytic
+Lesion Treatment
+Wilkening, Paul; Alambeigi, Farshid; Murphy, Ryan Joseph; Taylor,
+Russell H.; Armand, Mehran
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1625-1631, DOI: 10.1109/LRA.2017.2678543
+A Practically Linear Relation between Time Delay and the Optimal Settling Time of a Haptic Device
+Hulin, Thomas
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1632-1639, DOI: 10.1109/LRA.2017.2678538
+Developing a Compact Robotic Needle Driver for MRI-Guided
+Breast Biopsy in Tight Environments
+Navarro-Alarcon, David; Singh, Satwinder; zhang, tianxue; Chung,
+Hayley Louise; NG, KWUN WANG; CHOW, Man Kiu; Liu, Yunhui
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1648-1655, DOI: 10.1109/LRA.2017.2678542
+
+23
+
+A Continuum Robot and Control Interface for Surgical Assist in
+Fetoscopic Interventions
+Dwyer, George; Chadebecq, François; Tella Amo, Marcel; Bergeles,
+Christos; Maneas, Efthymios; Pawar, Vijay; Vander Poorten, Emmanuel B; Deprest, Jan; Ourselin, Sebastien; De Coppi, Paolo; Vercauteren, Tom; Stoyanov, Danail
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1656-1663, DOI: 10.1109/LRA.2017.2679902
+Caging Polygonal Objects Using Equilateral Three-Finger Hands
+Bunis, Hallel A.; Rimon, Elon; Shapiro, Amir; Golan, Yoav
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1672-1679, DOI: 10.1109/LRA.2017.2651158
+Planning Dynamically Feasible Trajectories for Quadrotors Using Safe Flight Corridors in 3-D Complex Environments
+Liu, Sikang; Watterson, Michael; Mohta, Kartik; Sun, Ke; Bhattacharya, Subhrajit; Taylor, Camillo Jose; Kumar, Vijay
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1688-1695, DOI: 10.1109/LRA.2017.2663526
+Real-Time Motion Planning for Aerial Videography With RealTime With Dynamic Obstacle Avoidance and Viewpoint Optimization
+Naegeli, Tobias; Alonso-Mora, Javier; Domahidi, Alexander; Rus,
+Daniela; Hilliges, Otmar
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1696-1703, DOI: 10.1109/LRA.2017.2665693
+Effective Manipulation in Confined Spaces of Highly Articulated
+Robotic Instruments for Single Access Surgery
+Leibrandt, Konrad; Wisanuvej, Piyamate; Gras, Gauthier; Shang,
+Jianzhong; Seneci, Carlo Alberto; Giataganas, Petros; Vitiello,
+Valentina; Darzi, Ara; Yang, Guang-Zhong
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1704-1711, DOI: 10.1109/LRA.2017.2668465
+
+24
+
+Coordination Dynamics in Multihuman Multirobot Teams
+Iqbal, Tariq; Riek, Laurel D.
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1712-1717, DOI: 10.1109/LRA.2017.2673864
+Analysis of Joint and Hand Impedance During Teleoperation and
+Free-Hand Task Execution
+Buzzi, Jacopo; Gatti, Cecilia; Ferrigno, Giancarlo; De Momi, Elena
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1733-1739, DOI: 10.1109/LRA.2017.2678546
+Observability-Aware Trajectory Optimization for Self-Calibration
+with Application to UAVs
+Hausman, Karol; Preiss, James; Sukhatme, Gaurav; Weiss, Stephan
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1770-1777, DOI: 10.1109/LRA.2017.2647799
+Toward Domain Independence for Learning-Based Monocular
+Depth Estimation
+Mancini, Michele; Costante, Gabriele; Valigi, Paolo; Ciarfuglia,
+Thomas Alessandro; Delmerico, Jeffrey; Scaramuzza, Davide
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1778-1785, DOI: 10.1109/LRA.2017.2657002
+Hierarchical Cascade Controller for Assistance Modulation in a
+Soft Wearable Arm Exoskeleton
+Dinh, Binh Khanh; Xiloyannis, Michele; Antuvan, Chris Wilson; Cappello, Leonardo; Masia, Lorenzo
+IEEE Robotics and Automation Letters
+Year: 2017, Volume: 2, Issue: 3
+Pages: 1786-1793, DOI: 10.1109/LRA.2017.2668473
+
+25
+
+

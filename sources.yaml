@@ -1,0 +1,16 @@
+conferences:
+  # AAAI:
+  #   2018: "https://www.google.com"
+  # IJCAI:
+  #   2018
+  # NIPS:
+  #   2018
+  # CVPR:
+  #   2018
+  # ICML:
+  #   2018: "https://foo.com"
+  #   2017: "https://foo.com"
+  ICRA:
+    2018: "https://ieeexplore.ieee.org/ielx7/7960754/7988677/07988685.pdf"
+  # ACL:
+  #   2018: "https://foo.com"

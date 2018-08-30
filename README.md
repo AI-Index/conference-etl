@@ -2,6 +2,32 @@
 Tools to extract data from Conference websites. Initially author affiliation 
 from accepted papers.
 
+## Requirements
+
+Python 3.6
+chromedriver
+
+```
+brew install chromedriver
+```
+
+### Python Packages
+
+```
+pip install pyyaml requests BeautifulSoup4
+```
+
+## Usage
+
+Modify `sources.yaml` to add new sources. Each new source will need a `Scraper`
+to be implemented in `sources/scrapers.py`.
+
+Then you can run:
+
+`python conference-etl.py --sourcelist sources.yaml`
+
+This will output a file `data.csv` in the same directory.
+
 ## Extract - Transform - Load (ETL)
 
 For a given list of supplied conferences, and sublists of the sources that
@@ -40,7 +66,9 @@ or to methods within a library.
             - starting URL for extracting accepted papers
     - (Later) - Google sheet containing the above
   - Scripts
-    - parse_sources.py (lib) -> python dict
+    - parsers (lib) -> python dict
+        - YamlParser -> python dict
+        - (Later) GoogleSheetsParser -> python dict
     - extract.py (script) -> local db representation
         - should warn if no scraper is implemented for a source
         - scrapers.py ->
@@ -57,8 +85,6 @@ or to methods within a library.
             - (later) specify source by name-year
     - (Later) visualize.py -> charts from data
   
-
-
 ## Edge Cases
 
  - What about non-paper accepted submissions?
